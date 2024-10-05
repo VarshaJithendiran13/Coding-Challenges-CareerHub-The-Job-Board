@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VARSHA\\hexaware\\CareerHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\repository\\applicationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\repository\\applicationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\repository\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\repository\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\repository\\jobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\repository\\jobsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\repository\\companiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\repository\\companiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\model\\applicants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\model\\applicants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\utilities\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\utilities\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|d:\\varsha\\hexaware\\careerhub\\careerhub\\services\\jobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C629AA6B-9889-4473-B9B7-48BB96E6D78E}|CareerHub\\CareerHub.csproj|solutionrelative:careerhub\\services\\jobsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\.gitignore",
+              "RelativeDocumentMoniker": "CareerHub\\.gitignore",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\.gitignore",
+              "RelativeToolTip": "CareerHub\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-05T07:52:52.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobsRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\JobsRepository.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Repository\\JobsRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\JobsRepository.cs",
+              "RelativeToolTip": "CareerHub\\Repository\\JobsRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:26:00.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompaniesRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\CompaniesRepository.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Repository\\CompaniesRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\CompaniesRepository.cs",
+              "RelativeToolTip": "CareerHub\\Repository\\CompaniesRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:25:58.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationsRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\ApplicationsRepository.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Repository\\ApplicationsRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\ApplicationsRepository.cs",
+              "RelativeToolTip": "CareerHub\\Repository\\ApplicationsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:20:58.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicantsRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\ApplicantsRepository.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Repository\\ApplicantsRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Repository\\ApplicantsRepository.cs",
+              "RelativeToolTip": "CareerHub\\Repository\\ApplicantsRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:10:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\appsettings.json",
+              "RelativeDocumentMoniker": "CareerHub\\appsettings.json",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\appsettings.json",
+              "RelativeToolTip": "CareerHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T07:06:47.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\MainModule.cs",
+              "RelativeDocumentMoniker": "CareerHub\\MainModule.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\MainModule.cs",
+              "RelativeToolTip": "CareerHub\\MainModule.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAMEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:55:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Applicants.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Model\\Applicants.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Model\\Applicants.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Model\\Applicants.cs",
+              "RelativeToolTip": "CareerHub\\Model\\Applicants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:23:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbConnUtil.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Utilities\\DbConnUtil.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Utilities\\DbConnUtil.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Utilities\\DbConnUtil.cs",
+              "RelativeToolTip": "CareerHub\\Utilities\\DbConnUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:06:44.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobsService.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Services\\JobsService.cs",
+              "RelativeDocumentMoniker": "CareerHub\\Services\\JobsService.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\CareerHub\\CareerHub\\Services\\JobsService.cs",
+              "RelativeToolTip": "CareerHub\\Services\\JobsService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:44:07.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
