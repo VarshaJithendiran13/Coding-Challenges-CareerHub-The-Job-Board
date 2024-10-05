@@ -1,4 +1,5 @@
-# CareerHub - The Job Board
+# Coding-Challenges-CareerHub-The-Job-Board
+Varsha J K - C# BATCH 1
 
 ## Overview
 This project is designed to help users manage job applications, companies, and applicants efficiently. It includes two main components:
